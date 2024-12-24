@@ -1,1 +1,1 @@
-# pandasmp
+# pandasmp minecraft server wiki
